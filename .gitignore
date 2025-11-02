@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+artifacts/
+cache/
+types/
+coverage/
+deployments/
+fhevmTemp/
+
+# Environment files
+*.env
+*.env.local
+*.env*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+coverage/
+.coverage_artifacts
+.coverage_cache
+.coverage_contracts
+coverage.json
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Generated files (will be regenerated)
+softsignal-frontend/abi/
+
+# Vercel
+.vercel
+
+# Lock files (keep package-lock.json, ignore others)
+pnpm-lock.yaml
+yarn.lock
+
+# Temporary files
+tmp/
+*.tmp
+
