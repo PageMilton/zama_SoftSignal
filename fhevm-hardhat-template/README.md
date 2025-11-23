@@ -108,4 +108,3 @@ This project is licensed under the BSD-3-Clause-Clear License. See the [LICENSE]
 ---
 
 **Built with ❤️ by the Zama team**
-

@@ -295,5 +295,3 @@ export const getSpacing = (key: keyof typeof designTokens.spacing) => {
 export const getShadow = (key: keyof typeof designTokens.shadows) => {
   return designTokens.shadows[key];
 };
-
-

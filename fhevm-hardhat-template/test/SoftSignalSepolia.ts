@@ -16,4 +16,3 @@ describe("SoftSignal (Sepolia)", function () {
     expect(true).to.be.true;
   });
 });
-

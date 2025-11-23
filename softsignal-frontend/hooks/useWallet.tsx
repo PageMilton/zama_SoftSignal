@@ -400,5 +400,3 @@ declare global {
     ethereum?: any;
   }
 }
-
-

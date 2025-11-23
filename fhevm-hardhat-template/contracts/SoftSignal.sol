@@ -321,7 +321,3 @@ contract SoftSignal is ZamaEthereumConfig {
         return _entryIdCounter;
     }
 }
-
-
-
-
